@@ -8,7 +8,7 @@ public class Main {
         int bonus = sumOfTickets / milesForAccount;
 
         System.out.println("Стоимость купленных билетов: " + sumOfTickets);
-        System.out.println("Бонусные мили сотавили: " + bonus);
+        System.out.println("Бонусные мили соcтавили: " + bonus);
         System.out.println();
     }
 }
